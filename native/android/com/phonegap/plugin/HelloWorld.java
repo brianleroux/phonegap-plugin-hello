@@ -1,3 +1,5 @@
+package com.phonegap.plugin;
+
 import org.json.*;
 import com.phonegap.api.Plugin;
 import com.phonegap.api.PluginResult;
