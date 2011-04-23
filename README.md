@@ -161,3 +161,4 @@ Plugin native code ultimately gets copied into PhoneGap native projects; and eac
 - Android native code goes under `src`.
 - TODO blackberry, webos, etc
 
+There is an example usage file in the root called `example.html`. Drop that code into your `www/index.html` to test.
